@@ -59,7 +59,7 @@ public class Main {
   @RequestMapping("/bob42")
   @ResponseBody
   String bob42() {
-	  return "Hello World!";
+	  return "Hello World! bis!!";
   }
   
   @RequestMapping("/db")
